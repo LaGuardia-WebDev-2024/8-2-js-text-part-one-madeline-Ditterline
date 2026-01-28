@@ -15,6 +15,14 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+fill(1,1,1);
+textSize(25);
+text("My Favorite Foods", 175, 50);
+textSize(18);
+text("-Pasta",195,85);
+text("-Steak",195,105);
+text("-Mushrooms",195,125);
+text("-Sheep Cheese",195,145);
 
 };
 
